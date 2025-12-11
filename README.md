@@ -27,7 +27,9 @@ In a period marked by persistent inflation and shifting consumer behavior, under
 
 >> Order of accessing files to and steps to take for replicating our results
 
-First, access the 
+All files to replicate our analysis are incuded within this repository.
+
+To first gain an understanding of the project and the problem we address throughout this analysis, access the pdf document *Excecutive Summary - ISA 514 Project_ Predicting Consumer Sentiment*. 
 
 
 
