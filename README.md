@@ -23,8 +23,15 @@ In a period marked by persistent inflation and shifting consumer behavior, under
 
 ## Contents of the Repository
 
+- Python scripts to conduct analysis and merge data
 
+- Economic files in zip folder to conduct analysis
 
+- Reddit sentiment files in zip folder
+
+- Executive summary
+
+- Final presentation
 
 
 ## Steps to Follow to Replicate our Analysis
