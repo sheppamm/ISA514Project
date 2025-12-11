@@ -34,9 +34,40 @@ In a period marked by persistent inflation and shifting consumer behavior, under
 - Final presentation
 
 
+Files:
+
+>>>>> update to provide details of what each file uploaded in the repository includes
+
+- Combing_datasets.ipynb
+
+- DataVisuals.ipynb
+
+- Economic Data.zip
+
+- Excecutive Summary - ISA 514 Project_ Predicting Consumer Sentiment (1).pdf
+
+- Logistic Regression.ipynb
+
+- Master_df.csv
+
+- MidwestCleaned.ipynb
+
+- ModelData.csv
+
+- Presentation. Consumer Sentiment - ISA 514 Group 3A.pdf
+
+- README.md
+
+- Random Forest.ipynb
+
+- Reddit Files.zip
+
+- RedditCleaned.ipynb
+
+
 ## Steps to Follow to Replicate our Analysis
 
-
+>> Order of accessing files to and steps to take for replicating our results
 
 
 
