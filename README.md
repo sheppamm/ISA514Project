@@ -31,7 +31,7 @@ In a period marked by persistent inflation and shifting consumer behavior, under
 - Final presentation
 
 
-Files:
+### Details for each file in the repository
 
 >>>>> update to provide details of what each file uploaded in the repository includes
 
