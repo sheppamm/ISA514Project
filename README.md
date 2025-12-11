@@ -15,7 +15,7 @@ Professor: Dr. Jay Shan
 
 - Steps to Follow to Replicate our Analysis
 
-- Conclusion
+- Results and Conclusion
 
 ## Project Overview
 
