@@ -1,8 +1,7 @@
 # Predicting Midwest Consumer Sentiment
 ISA 514 Project 
-Miami University
 
-Farmer School of Business
+Miami University Farmer School of Business
 
 Team Members: Aaron Black, Jackson Chlebowy, Logan Loftus, Maguire Sheppard
 
