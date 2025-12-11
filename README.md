@@ -20,13 +20,13 @@ In a period marked by persistent inflation and shifting consumer behavior, under
 
 ## Contents of the Repository
 
-- Python scripts to conduct analysis and merge data
+- Executive summary document
 
-- Economic files in zip folder to conduct analysis
+- Structured Economic data used in the analysis
 
-- Reddit sentiment files in zip folder
+- Unstructured Reddit sentiment data used in the analysis
 
-- Executive summary
+- Python scripts to merging data and conducting analysis
 
 - Final presentation
 
