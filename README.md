@@ -9,13 +9,10 @@ Professor: Dr. Jay Shan
 
 ## Table of Contents
 
-- Project Overview
-
-- Contents of the Repository
-
-- Steps to Follow to Replicate our Analysis
-
-- Results and Conclusion
+1. Project Overview
+2. Contents of the Repository
+3. Steps to Follow to Replicate our Analysis
+4. Results and Conclusion
 
 ## Project Overview
 
